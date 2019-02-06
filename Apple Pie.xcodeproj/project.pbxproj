@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8F4E4E29220B226600B5539F /* Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4E4E28220B226600B5539F /* Game.swift */; };
 		8FC8DCEE220A241500A8C050 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FC8DCED220A241500A8C050 /* AppDelegate.swift */; };
 		8FC8DCF0220A241500A8C050 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FC8DCEF220A241500A8C050 /* ViewController.swift */; };
 		8FC8DCF3220A241500A8C050 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8FC8DCF1220A241500A8C050 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8F4E4E28220B226600B5539F /* Game.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Game.swift; sourceTree = "<group>"; };
 		8FC8DCEA220A241500A8C050 /* Apple Pie.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Apple Pie.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8FC8DCED220A241500A8C050 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8FC8DCEF220A241500A8C050 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 				8FC8DCED220A241500A8C050 /* AppDelegate.swift */,
 				8FC8DCEF220A241500A8C050 /* ViewController.swift */,
 				8FC8DCF1220A241500A8C050 /* Main.storyboard */,
+				8F4E4E28220B226600B5539F /* Game.swift */,
 				8FC8DCF4220A241500A8C050 /* Assets.xcassets */,
 				8FC8DCF6220A241500A8C050 /* LaunchScreen.storyboard */,
 				8FC8DCF9220A241500A8C050 /* Info.plist */,
@@ -137,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8FC8DCF0220A241500A8C050 /* ViewController.swift in Sources */,
+				8F4E4E29220B226600B5539F /* Game.swift in Sources */,
 				8FC8DCEE220A241500A8C050 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -299,6 +303,7 @@
 				8FC8DCFE220A241500A8C050 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
